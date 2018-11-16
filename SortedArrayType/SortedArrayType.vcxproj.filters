@@ -24,6 +24,9 @@
     <ClInclude Include="..\..\..\..\Desktop\Cellphone company\Cellphone\Customer.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="PhoneNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SortedType.cpp">
@@ -33,6 +36,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\..\Desktop\Cellphone company\Cellphone\Customer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhoneNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

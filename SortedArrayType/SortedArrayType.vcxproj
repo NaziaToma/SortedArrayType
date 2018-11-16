@@ -21,11 +21,13 @@
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Desktop\Cellphone company\Cellphone\Customer.h" />
     <ClInclude Include="..\..\..\..\Desktop\Cellphone company\Cellphone\Person.h" />
+    <ClInclude Include="PhoneNumber.h" />
     <ClInclude Include="SortedType.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Desktop\Cellphone company\Cellphone\Customer.cpp" />
     <ClCompile Include="..\..\..\..\Desktop\Cellphone company\Cellphone\Person.cpp" />
+    <ClCompile Include="PhoneNumber.cpp" />
     <ClCompile Include="SortedType.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
